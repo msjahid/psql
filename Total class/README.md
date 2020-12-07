@@ -5,4 +5,4 @@ Following is a schedule to learn data science step by step considering **4 hours
 
 ### Day 1: Setting up databases, tables, and values
 
-![Day_1](./shell/Day1.svg)
+![Day1](/shell/Day1.svg)
