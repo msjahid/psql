@@ -6,4 +6,4 @@ Following is a schedule to learn data science step by step considering **4 hours
 ### Day 1: Setting up databases, tables, and values
 
 
-<a href="https://asciinema.org/a/9wmXEBieqkEAlOAseKJbhMU2P" target="_blank"><img src="https://asciinema.org/a/9wmXEBieqkEAlOAseKJbhMU2P.svg" /></a>
+[![asciicast](https://asciinema.org/a/9wmXEBieqkEAlOAseKJbhMU2P.svg)](https://asciinema.org/a/9wmXEBieqkEAlOAseKJbhMU2P)
