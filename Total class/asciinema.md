@@ -1,4 +1,6 @@
-# <img src="assets/icon.png" width="45" align="left"> asciinema Player for GitHub
+# asciinema Player for GitHub
+
+<a href="https://asciinema.org/a/377926" target="_blank"><img src="https://asciinema.org/a/377926.svg" /></a>
 
 [link-cws]: https://chrome.google.com/webstore/detail/mkllmpcfhjcbkmegdpnaemhpdddffhil "Version published on Chrome Web Store"
 [link-amo]: https://addons.mozilla.org/en-US/firefox/addon/asciinema-player-for-github/ "Version published on Mozilla Add-ons"
@@ -66,4 +68,4 @@ Copyright (c) Mihir Chaturvedi. All rights reserved.
 Licensed under the [MIT](LICENSE) License.
 
 
-<a href="https://asciinema.org/a/377926" target="_blank"><img src="https://asciinema.org/a/377926.svg" /></a>
+
