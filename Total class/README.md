@@ -9,8 +9,4 @@ Following is a schedule to learn data science step by step considering **4 hours
 
 ### Day 2: Drop & Rename table, insert multiple values, update information, delete data
 
-<html>
-	<body>
-		<script id="asciicast-377926" src="https://asciinema.org/a/377926.js" async></script>
-	</body>
-</html>
+![Day2](/shell/Day2.svg)
